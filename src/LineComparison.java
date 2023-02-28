@@ -1,6 +1,8 @@
 public class LineComparison {
     public static void main(String[] args) {
 
-        System.out.println("Welcome To Line Comparison");
+        double lengthOfLine1 = 4, lengthOfLine2 = 4;
+        System.out.println("Length of line1  ");
+        System.out.println("Length of line2  ");
     }
 }
